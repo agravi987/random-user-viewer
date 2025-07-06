@@ -6,7 +6,7 @@ A simple, dark-themed web application that displays a random user fetched from t
 
 ## 📸 Screenshot
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./screenshot/user.png)
 
 ---
 
@@ -21,4 +21,4 @@ A simple, dark-themed web application that displays a random user fetched from t
 
 ## 🚀 Live Demo
 
-![Live preview](./screenshot.png)
+![RisingSun User Directory](https://agravi987.github.io/random-user-viewer/)
